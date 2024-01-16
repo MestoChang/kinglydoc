@@ -33,6 +33,9 @@
         name: '專案文件',
         repo: 'https://github.com/MestoChang/kinglydoc/',
 
+        // 切換頁面後自動跳轉至頁面頂部
+        auto2top: true,
+
         // sidebar
         loadSidebar: true,
         subMaxLavel: 3,
@@ -52,7 +55,15 @@
           fontsize: '0.9em',
           color: 'rgb(255, 255, 255, 0.5)',
           language: 'english'
-        }
+        },
+
+        // footer
+        footer: {
+          copy: '<div>Copyright &copy; 2024</div>',
+          auth: '<div style="margin-top:4px"> <strong><a href="#" target="_blank">Robot</a></strong></div>',
+          pre: '<hr style="margin-top:4rem" />',
+          style: 'font-size: 14px; text-align: center;margin-top: 2rem',
+        },
       }
     </script>
 
@@ -71,6 +82,9 @@
 
     <!-- word count -->
     <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+
+    <!-- footer -->
+    <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
 
     <!-- service worker -->
     <script>
