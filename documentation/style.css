@@ -316,7 +316,7 @@ main.hidden {
 
 .sidebar li>p {
 	font-weight: 700;
-	margin: 0
+	margin: 0;
 }
 
 .sidebar ul,
@@ -1080,3 +1080,4 @@ pre:after {
 .tooltip .tooltiptext:hover {
 	visibility: hidden;
 } */
+
