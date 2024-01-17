@@ -1,5 +1,5 @@
 * [規格需求](Pages/requirment.md)
-* [系統架構](Pages/structure.md)
+* [網站架構](Pages/structure.md)
 
 * 通用元件
   * [Header](Pages/components/header.md)

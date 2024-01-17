@@ -1,6 +1,6 @@
-# requirment
+# 專案規格需求
 
+## 開發環境
+1. React
+2. Tailwind CSS
 
-
-
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi quisquam ullam quos nulla, voluptate, sint culpa consequatur aliquid assumenda sapiente voluptatem corrupti. Esse quia officia reiciendis rerum autem, molestiae quas.

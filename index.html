@@ -33,7 +33,7 @@
         // sidebar
         loadSidebar: true,
         subMaxLevel: 3,
-        sidebarDisplayLevel:1,
+        sidebarDisplayLevel: 1,
 
         // 搜尋功能
         search: {
@@ -55,9 +55,21 @@
         // footer
         footer: {
           copy: '<div>Copyright &copy; 2024</div>',
-          auth: '<div style="margin-top:4px"> <strong><a href="#" target="_blank">Robot</a></strong></div>',
+          auth: '<div style="margin-top:4px"><strong><a href="https://kinglyrobot.com/" target="_blank">王道機器人股份有限公司</a></strong></div>',
           pre: '<hr style="margin-top:4rem" />',
           style: 'font-size: 14px; text-align: center;margin-top: 2rem',
+        },
+
+        // pagination
+        pagination: {
+          previousText: 'Prev',
+          // or
+          nextText: {
+            '/en/': 'NEXT',
+            '/': '下一篇'
+          },
+          crossChapter: true,
+          crossChapterText: true,
         },
       }
     </script>
@@ -84,6 +96,11 @@
 
     <!-- footer -->
     <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
+
+    <!-- pagination -->
+    <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+
+
 
     <!-- service worker -->
     <script>
