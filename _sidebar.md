@@ -1,4 +1,3 @@
-* [規格需求](Pages/requirment.md)
 * [網站架構](Pages/structure.md)
 
 * 通用元件
