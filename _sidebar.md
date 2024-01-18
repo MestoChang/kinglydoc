@@ -7,7 +7,8 @@
   * [Banner](Pages/components/banner.md)
 
 * 頁面規劃
-  * [首頁](Pages/layout/homepage/default.md)
+  * Landing Page
+    * [首頁](Pages/layout/homepage/default.md)
     * [搜尋結果列表](Pages/layout/homepage/searchresult.md)
     * [關於我們](Pages/layout/homepage/aboutus.md)
     * [聯絡資訊](Pages/layout/homepage/contactus.md)
@@ -19,6 +20,7 @@
       * [重設密碼](Pages/layout/account/resetpw.md)
       * [重設密碼成功](Pages/layout/account/resetsuccess.md)
     * [註冊會員](Pages/layout/account/signup.md)
+    * [註冊成功](Pages/layout/account/signup-success.md)
     * 會員驗證
       * [email內容](Pages/layout/account/vertifyemail.md)
       * [驗證成功](Pages/layout/account/vertifysuccess.md)
@@ -27,8 +29,8 @@
     * [會員類型說明](Pages/layout/mamber/mambertype.md)
   * [內文系統](Pages/layout/content/article-system.md)
     * [文章列表](Pages/layout/content/article-list.md)
-    * [文章](Pages/layout/content/article.md)
     * [關聯列表](Pages/layout/content/related-article.md)
+    * [文章](Pages/layout/content/article.md)
   * [課程專欄](Pages/layout/course/course-system.md)
     * [課程列表](Pages/layout/course/course-list.md)
     * [課程資訊](Pages/layout/course/course-info.md)

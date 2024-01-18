@@ -430,13 +430,13 @@ body.sticky .sidebar-toggle {
 }
 
 table th:first-of-type {
-    width: 10%;
+    width: 15%;
 }
 table th:nth-of-type(2) {
     width: 10%;
 }
 table th:nth-of-type(3) {
-    width: 20%;
+    width: 15%;
 }
 table th:last-of-type {
     width: 60%;
