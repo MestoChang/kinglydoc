@@ -1094,3 +1094,18 @@ pre:after {
 	visibility: hidden;
 } */
 
+.text-red {
+	color: #dc2626;
+}
+
+.text-green {
+	color:#16a34a;
+}
+
+.text-orange {
+	color: #ea580c;
+}
+
+.text-blue {
+	color: #2563eb;
+}

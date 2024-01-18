@@ -10,6 +10,7 @@
 
 ![熱門文章示意圖](./asset/article-list-hotarticle.png)
 
+<br>
 
 ### 章節
 - 顯示三個已分類好的章節，分別是：皮膚科學、保養新知、醫學美容。
@@ -17,6 +18,7 @@
 
 ![章節示意圖](./asset/article-list-chapter.png)
 
+<br>
 
 ### 關鍵字
 對應章節顯示章節設定的關鍵字，預設顯示第一個章節：皮膚科學。
@@ -28,6 +30,7 @@
 |全部文章|Link|Click|顯示章節內全部文章列表|
 |關鍵字|Link|Click|依[章節API](https://beautyapp2.docs.apiary.io/#reference/0/a003-/get)顯示章節內所屬關鍵字 <br>點擊後文章列表切換顯示該關鍵字的[關聯列表](Pages/layout/content/related-article.md)|
 
+<br>
 
 ### 文章列表
 對應關鍵字的選擇顯示文章列表，預設顯示 全部文章。

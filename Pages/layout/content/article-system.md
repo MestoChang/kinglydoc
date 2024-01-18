@@ -16,7 +16,7 @@
 |搜索按鈕|Button|Click| 觸發下方主要內容變化為 [關聯列表](Pages/layout/content/related-article.md) |
 |熱門搜索關鍵字|Link|Click|依照瀏覽紀錄/點擊率顯示排名前5高的關鍵字，點擊後跳轉至該關鍵字的 [關聯列表](Pages/layout/content/related-article.md)|
 
-
+---
 
 ### Main 主要內容
 此範圍隨搜索功能是否有被觸發顯示[文章列表](Pages/layout/content/article-list.md)或者[關聯列表](Pages/layout/content/related-article.md)。
