@@ -1,4 +1,5 @@
-* [網站架構](Pages/structure.md)
+* [開發環境](Pages/project-env.md)
+* [文件更新紀錄](Pages/change-log.md)
 
 * 通用元件
   * [Header](Pages/components/header.md)
@@ -36,5 +37,3 @@
     * [關看課程](Pages/layout/course/watch-course.md)
     * [講師列表](Pages/layout/course/mentor-list.md)
     * [講師資訊](Pages/layout/course/mentor-info.md) -->
-
-* [API文件](Pages/api.md)

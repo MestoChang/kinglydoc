@@ -316,7 +316,7 @@ main.hidden {
 
 .sidebar li>p {
 	font-weight: 700;
-	margin: 0.6rem 0;
+	margin: 0.6rem 0.2rem;
 }
 
 .sidebar ul li {
@@ -707,9 +707,9 @@ section.cover blockquote {
 }
 
 section.cover ul {
-	line-height: 1.8;
+	line-height: 1.5;
 	list-style-type: none;
-	margin: 1em auto;
+	margin: 0.6rem auto;
 	max-width: 500px;
 	padding: 0
 }
