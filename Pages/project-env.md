@@ -16,13 +16,13 @@
 
 
 - State management
-  - redux-toolkit
+  - [redux-toolkit](https://redux-toolkit.js.org/)
   - [zustand](https://zustand-demo.pmnd.rs/)
 
 
 - Verity Component Attributes
   - [prop-types](https://www.npmjs.com/package/prop-types)
-  - [classnames](https://www.npmjs.com/package/classnames)
+  - [classnames](https://www.npmjs.com/package/classnames) : 搭配 prop-types 驗證屬性後套用不同的 classname
 
 
 - Verity Form
@@ -38,8 +38,8 @@
 
 
 - SEO
- - [react-helmet](https://github.com/nfl/react-helmet#readme)
- - [react-snap](https://www.npmjs.com/package/react-snap/v/1.16.0)
+  - [react-helmet](https://github.com/nfl/react-helmet#readme)
+  - [react-snap](https://www.npmjs.com/package/react-snap/v/1.16.0)
 
 
 ### API
