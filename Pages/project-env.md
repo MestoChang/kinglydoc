@@ -4,6 +4,7 @@
 ### Framework
 -  React
 -  Tailwind CSS
+-  Next.js 14
 
 ### Plugins
 
@@ -35,6 +36,7 @@
 
 - Toast
   - [react-hot-toast](https://react-hot-toast.com/)
+  - [react-toasify](https://fkhadra.github.io/react-toastify/introduction/)
 
 
 - SEO
