@@ -10,38 +10,32 @@
 
 - Icons
   - [react-icons](https://react-icons.github.io/react-icons/)
-
-
-- Router
-  - react-dom-router
-
-
-- State management
-  - [redux-toolkit](https://redux-toolkit.js.org/)
-  - [zustand](https://zustand-demo.pmnd.rs/)
-
-
+  -
+- State management (choose one)
+    - [ ] [redux-toolkit](https://redux-toolkit.js.org/)
+    - [ ] [zustand](https://zustand-demo.pmnd.rs/)
+    - [ ]
 - Verity Component Attributes
   - [prop-types](https://www.npmjs.com/package/prop-types)
-  - [classnames](https://www.npmjs.com/package/classnames) : 搭配 prop-types 驗證屬性後套用不同的 classname
-
+  - [classnames](https://www.npmjs.com/package/classnames) :搭配 prop-types 驗證屬性後套用不同的 classname
 
 - Verity Form
   - [react-hook-form](https://react-hook-form.com/)
-
-
+  -
 - Animation
   - [AOS](https://michalsnik.github.io/aos/)
-
-
-- Toast
-  - [react-hot-toast](https://react-hot-toast.com/)
-  - [react-toasify](https://fkhadra.github.io/react-toastify/introduction/)
-
-
-- SEO
-  - [react-helmet](https://github.com/nfl/react-helmet#readme)
-  - [react-snap](https://www.npmjs.com/package/react-snap/v/1.16.0)
+  - [framer motion](https://www.framer.com/motion/)
+  -
+- Toast (choose one)
+    - [ ] [react-hot-toast](https://react-hot-toast.com/)
+    - [ ] [react-toasify](https://fkhadra.github.io/react-toastify/introduction/)
+    - [ ]
+- DOM processing for HTML conversion
+    - [node-html-parser](https://www.npmjs.com/package/node-html-parser)
+    -
+- CSS Library (choose one)
+    - [ ] [shadcn](https://ui.shadcn.com/)
+    - [ ] [Mui](https://mui.com/base-ui/getting-started/)
 
 
 ### API
